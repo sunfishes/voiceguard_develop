@@ -415,7 +415,7 @@
             "outputFile": "com.example.sj_voiceguard.app-debug-31:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\voiceguard_sj-main2\\sj_voiceguard\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\sj_voiceguard\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1677,7 +1677,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\voiceguard_sj-main2\\sj_voiceguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\sj_voiceguard\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,2,4,3",
                         "startColumns": "4,4,4,4",
@@ -1713,22 +1713,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\voiceguard_sj-main2\\sj_voiceguard\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\sj_voiceguard\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,328",
-                        "endLines": "5,7",
-                        "endColumns": "12,74",
-                        "endOffsets": "322,398"
+                        "startLines": "2,6,5,4,8,7,10,9,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,253,206,139,382,321,501,441,97",
+                        "endColumns": "41,47,46,46,39,44,52,37,41",
+                        "endOffsets": "92,296,248,181,417,361,549,474,134"
                     },
                     "to": {
-                        "startLines": "2599,6591",
-                        "startColumns": "4,4",
-                        "startOffsets": "181905,461781",
-                        "endLines": "2602,6591",
-                        "endColumns": "12,73",
-                        "endOffsets": "182021,461850"
+                        "startLines": "641,656,657,658,702,705,945,954,967",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "32859,33922,33970,34017,37033,37208,55356,55997,56853",
+                        "endColumns": "41,47,46,46,39,44,52,37,41",
+                        "endOffsets": "32896,33965,34012,34059,37068,37248,55404,56030,56890"
                     }
                 },
                 {
@@ -1842,6 +1840,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\sj_voiceguard\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,328",
+                        "endLines": "5,7",
+                        "endColumns": "12,74",
+                        "endOffsets": "322,398"
+                    },
+                    "to": {
+                        "startLines": "2599,6591",
+                        "startColumns": "4,4",
+                        "startOffsets": "181905,461781",
+                        "endLines": "2602,6591",
+                        "endColumns": "12,73",
+                        "endOffsets": "182021,461850"
+                    }
+                },
+                {
                     "source": "C:\\Users\\jesus\\.gradle\\caches\\transforms-4\\9a1a881d952f38665950bfb9875eed47\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -1858,23 +1875,6 @@
                         "endLines": "13683",
                         "endColumns": "24",
                         "endOffsets": "806383"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\voiceguard_sj-main2\\sj_voiceguard\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,6,5,4,8,7,10,9,3",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,253,206,139,382,321,501,441,97",
-                        "endColumns": "41,47,46,46,39,44,52,37,41",
-                        "endOffsets": "92,296,248,181,417,361,549,474,134"
-                    },
-                    "to": {
-                        "startLines": "641,656,657,658,702,705,945,954,967",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "32859,33922,33970,34017,37033,37208,55356,55997,56853",
-                        "endColumns": "41,47,46,46,39,44,52,37,41",
-                        "endOffsets": "32896,33965,34012,34059,37068,37248,55404,56030,56890"
                     }
                 },
                 {
@@ -1950,7 +1950,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\voiceguard_sj-main2\\sj_voiceguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\jesus\\AndroidStudioProjects\\sj_voiceguard\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
