@@ -51,10 +51,10 @@ class MainActivity : AppCompatActivity() {
     //private lateinit var speechResultText: TextView
 
     // API 키 (실제 키로 교체하세요)
-    private val chatGPTApiKey = "api" // 실제 ChatGPT API 키로 교체하세요
-    private val upstageApiKey = "api" // 실제 Upstage API 키로 교체하세요
-    private val anthropicApiKey = "api" // 실제 Anthropic API 키로 교체하세요
-    private val geminiApiKey = "api" // 실제 Gemini API 키로 교체하세요
+    private val chatGPTApiKey = "key" // 실제 ChatGPT API 키로 교체하세요
+    private val upstageApiKey = "key" // 실제 Upstage API 키로 교체하세요
+    private val anthropicApiKey = "key" // 실제 Anthropic API 키로 교체하세요
+    private val geminiApiKey = "key" // 실제 Gemini API 키로 교체하세요
 
     // 코루틴 관련 변수
     private val scope = CoroutineScope(Dispatchers.Main + Job())
